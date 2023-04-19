@@ -3,21 +3,24 @@
     --cor_de_fundo2:#A901DB;
     --cor_primaria_fonte:#000000;
 }
+
 * {
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
 }
+
 .banner {
     width: 100%;
     height: 100px;
     background-color: var(--cor_de_fundo2);
 }
+
 .rodape {
     background-color: var(--cor_de_fundo);
-    width: 100;
+    width: 100%;
     height: 80px;
 }
+
 .conteudo {
-width: 100%;
-h
+    width: 100%;
 }
