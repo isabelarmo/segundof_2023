@@ -32,7 +32,7 @@ header {
     padding: 15px;
     display: inline-block;
     text-decoration: none;
-    transition background: 8px ;
+    animation-composition: 8px;
   }
   
   #menu-h ul li a:hover {
