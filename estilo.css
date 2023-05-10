@@ -2,21 +2,23 @@ mesa {
 width: 100%;
 height: 200px;
 background-color: rgb (43, 255, 0); display: flex;
-flex-direction: row: justify-content: space-around;
-align-1tems: center:
-]
-face
-width: 150px: helght: 150px;
+flex-direction: row;
+justify-content: space-around;
+align-Items: center;
+}
+face {
+width: 150p;
+height: 150px;
 background-color: Org(0, 0, 0);
-)
-.unica (
+}
+.unica {
 height: 1003;
 width: 100%;
 display: flex;
 justify-content: center;
-align-Items: center:
-)
-bolinha (
+align-Items: center;
+}
+bolinha {
 width: 30px; height: 30px;
-background-color: rgb(51, 235, 0): border-radius: 509;
+background-color: rgb(51, 235, 0); border-radius: 509;
 }
